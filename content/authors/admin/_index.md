@@ -20,6 +20,7 @@ bio: PhD student at University of Strathclyde
 interests:
 - Natural Products
 - Chemical Ecology
+- Drug Discovery
 
 # Education to show in About widget
 education:
@@ -66,8 +67,6 @@ email: "jonathan.parra@ucr.ac.cr"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I am a PhD student at the Strathclyde Institute of Pharmacy & Biomedical Sciences, where I study the evolution of the specialised metabolism of _Pseudonocardia_ spp. isolated from the Southern Ocean. By applying metabolomics and genomics tools, I am looking to discover novel and interesting bioactive compounds. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
