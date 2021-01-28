@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.com/citations?user=IRMm8A0AAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/jonathan-parra-367a09169
+  link: https://www.linkedin.com/in/jonathan-parra-367a09169
 - icon: ORCID
   icon_pack: fab
   link: https://orcid.org/0000-0001-7273-0406
