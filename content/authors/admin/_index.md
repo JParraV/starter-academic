@@ -6,7 +6,7 @@ title: Jonathan Parra
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -52,7 +52,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: linkedin.com/in/jonathan-parra-367a09169
-
+- icon: ORCID
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-7273-0406
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
