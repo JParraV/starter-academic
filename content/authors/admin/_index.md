@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Pharmacy and Biomedical Sciences
+  - course: PhD in Pharmacy & Biomedical Sciences
     institution: University of Strathclyde
-    year: 2012
+    year: 
   - course: MSc in Chemistry
     institution: Uniersity of Costa Rica
     year: 2017
@@ -52,7 +52,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jonathan-parra-367a09169
-- icon: ORCID
+- icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-7273-0406
 # Link to a PDF of your resume/CV.
