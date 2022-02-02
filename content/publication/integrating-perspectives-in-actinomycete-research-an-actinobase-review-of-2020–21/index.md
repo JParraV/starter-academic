@@ -12,6 +12,10 @@ authors:
   - Kristiina Vind
   - Jana K. Schniete
 doi: https://doi.org/10.1099/mic.0.001084
+publication: "Undabarrena, A., Pereira, C. F., Kruasuwan, W., Parra, J.,
+  Sélem-Mojica, N., Vind, K., & Schniete, J. K. (2021). Integrating perspectives
+  in actinomycete research: an ActinoBase review of 2020-21. Microbiology,
+  167(9)."
 publication_short: In Microbiology
 abstract: "Last year ActinoBase, a Wiki-style initiative supported by the UK
   Microbiology Society, published a review highlighting the research of
