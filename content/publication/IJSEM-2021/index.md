@@ -19,11 +19,13 @@ tags: []
 
 featured: true
 
+url_pdf: starter-academic/content/publication/IJSEM-2021/ijsem005032.pdf
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [Parra, 2021]'
   focal_point: ""
   preview_only: false
 
