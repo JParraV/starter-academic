@@ -4,7 +4,7 @@ title: " _Pseudonocardia abyssalis_ sp. nov. and _Pseudonocardia oceani_ sp. nov
 authors:
 - admin
 
-date: "2021T00:00:00Z"
+date: "2021"
 doi: "https://doi.org/10.1099/ijsem.0.005032"
 
 publication_types: ["2"]
@@ -20,15 +20,6 @@ tags: []
 featured: true
 
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005032'
-url_video: ''
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
@@ -36,20 +27,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
 {{% callout note %}}
