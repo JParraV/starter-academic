@@ -1,4 +1,5 @@
 authors: - admin
+date: 2021
 publication_types: ["2"]
-publication: Parra, J., Soldatou, S., Rooney, L. M., & Duncan, K. R. (2021). Pseudonocardia abyssalis sp. nov. and Pseudonocardia oceani sp. nov., two novel actinomycetes isolated from the deep Southern Ocean. International Journal of Systematic and Evolutionary Microbiology, 71(9), 005032.
+publication: Parra, J., Soldatou, S., Rooney, L. M., & Duncan, K. R. (2021). _Pseudonocardia abyssalis_ sp. nov. and _Pseudonocardia oceani_ sp. nov., two novel actinomycetes isolated from the deep Southern Ocean. International Journal of Systematic and Evolutionary Microbiology, 71(9), 005032.
 url_source: 'https://doi.org/10.1099/ijsem.0.005032
