@@ -1,5 +1,5 @@
 ---
-title: " _Pseudonocardia abyssalis_ sp. nov. and _Pseudonocardia oceani_ sp. nov., two novel actinomycetes isolated from the deep Southern Ocean"
+title: " Pseudonocardia abyssalis sp. nov. and Pseudonocardia oceani sp. nov., two novel actinomycetes isolated from the deep Southern Ocean"
 
 authors:
 - admin
@@ -19,7 +19,7 @@ tags: []
 
 featured: true
 
-url_pdf: starter-academic/content/publication/IJSEM-2021/ijsem005032.pdf
+url_pdf: publication/IJSEM-2021/ijsem005032.pdf
 
 
 # Featured image
