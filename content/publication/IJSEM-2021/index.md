@@ -40,5 +40,5 @@ image:
   preview_only: false
 summary: Two novel actinomycetes species _Pseudonocardia abyssalis_ sp. nov. and
   _Pseudonocardia oceani_ sp. nov. were described.
-date: 2021-01-01
+date: 2021-09-28T06:00:00.000Z
 ---
