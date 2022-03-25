@@ -29,7 +29,7 @@ education:
   courses:
     - course: PhD in Pharmacy & Biomedical Sciences
       institution: University of Strathclyde
-      year: null
+      year: 2022
     - course: MSc in Chemistry
       institution: Uniersity of Costa Rica
       year: 2017
