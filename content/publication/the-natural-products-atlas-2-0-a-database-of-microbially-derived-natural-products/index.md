@@ -20,7 +20,7 @@ authors:
   - Elisabeth M.-L. Janssen
   - Katherine R. Duncan
   - Roger G. Linington
-doi: https://doi.org/10.1093/nar/gkab941
+doi: ""
 publication: "van Santen, J. A., et al. (2022). The Natural Products Atlas 2.0:
   a database of microbially-derived natural products. Nucleic Acids Research,
   50(D1), D1317-D1323."
