@@ -40,6 +40,8 @@ email: jonathan.parra@ucr.ac.cr
 superuser: true
 highlight_name: false
 ---
-Currently, I am a PhD student at the Strathclyde Institute of Pharmacy & Biomedical Sciences, where I study the evolution of the specialised metabolism of *Pseudonocardia* spp. isolated from the Southern Ocean. By applying metabolomics and genomics tools, I am looking to discover novel and interesting bioactive compounds. 
+After obtaining a Pharmacy degree and a MSc in Chemistry at the University of Costa Rica, I posued a PhD in the Strathclyde Institute of Pharmacy & Biomedical Sciences, working in the group of [Katherine R. Duncan](http://medicinesfromthesea.com).
+
+Currently, I am an assistant professor of pharmacognosy and medicinal chemistry at the [Faculty of Pharmacy](https://farmacia.ucr.ac.cr/) of the University of Costa Rica. I am also work as an associate researcher in the [CENIBiot](http://www.cenibiot.ac.cr/) and [CIPRONA](http://ciprona.ucr.ac.cr/), where I explore the chemical ecology of actinomycetes isolated from marine envronments. By applying metabolomics and genomics tools, I try to understand the evolutionary and ecological boundaries of the specilised metabolisms these microorgamisms, as well as discover novel and interesting bioactive compounds.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/CV_eng.pdf" "newtab" >}}resumé{{< /staticref >}}.
