@@ -1,7 +1,7 @@
 ---
 title: Jonathan Parra
-role: "Assitant Professor "
-bio: Assitant Professor at University of Costa Rica
+role: "Assistant Professor "
+bio: Assintant Professor at University of Costa Rica
 interests:
   - Natural Products
   - Chemical Ecology
@@ -40,7 +40,7 @@ email: jonathan.parra@ucr.ac.cr
 superuser: true
 highlight_name: false
 ---
-After obtaining a BPharm and an MSc in Chemistry at the University of Costa Rica, I pursued a PhD in the Strathclyde Institute of Pharmacy & Biomedical Sciences, working in the group of [Katherine R. Duncan](http://medicinesfromthesea.com).
+After obtaining a Pharmacy degree and an MSc in Chemistry at the University of Costa Rica, I pursued a PhD in the Strathclyde Institute of Pharmacy & Biomedical Sciences, working in the group of [Katherine R. Duncan](http://medicinesfromthesea.com).
 
 Currently, I am an assistant professor of pharmacognosy and medicinal chemistry at the [Faculty of Pharmacy](https://farmacia.ucr.ac.cr/) of the University of Costa Rica. Additionally, I work as an associate researcher in the [CENIBiot](http://www.cenibiot.ac.cr/) and [CIPRONA](http://ciprona.ucr.ac.cr/) laboratories, where I explore the chemical ecology of actinomycetes isolated from marine environments. By applying metabolomics and genomics tools, I try to understand the evolutionary and ecological boundaries of the specialised metabolisms of these microorganisms, as well as discover novel and interesting bioactive compounds.
 
