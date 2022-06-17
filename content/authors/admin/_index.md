@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://orcid.org/0000-0001-7273-0406
 organizations:
-  - name: University of Strathclyde
-    url: https://pureportal.strath.ac.uk/en/persons/jonathan-enrique-parra-villalobos
+  - name: University of Costa Rica
+    url: https://farmacia.ucr.ac.cr/ff/node/210
 education:
   courses:
     - course: PhD in Pharmacy & Biomedical Sciences
