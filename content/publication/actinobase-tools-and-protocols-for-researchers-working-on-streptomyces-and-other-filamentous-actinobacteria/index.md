@@ -3,8 +3,57 @@ title: "ActinoBase: tools and protocols for researchers working on Streptomyces
   and other filamentous actinobacteria"
 publication_types:
   - "2"
+authors:
+  - Morgan Anne Feeney
+  - Jake Terry Newitt
+  - Emily Addington
+  - Lis Algora-Gallardo
+  - Craig Allan
+  - Lucas Balis
+  - Anna S. Birke
+  - Laia Castaño-Espriu
+  - Louise K. Charkoudian
+  - Rebecca Devine
+  - Damien Gayrard
+  - Jacob Hamilton
+  - Oliver Hennrich
+  - Paul A. Hoskisson
+  - Molly Keith-Baker
+  - Joshua G. Klein
+  - Worarat Kruasuwan
+  - David R. Mark
+  - Yvonne Mast
+  - Rebecca E. McHugh
+  - Thomas C. McLean
+  - Elmira Mohit
+  - John T. Munnoch
+  - Jordan Murray
+  - Katie Noble
+  - Hiroshi Otani
+  - Jonathan Parra
+  - Camila F. Pereira
+  - Louisa Perry
+  - Linamaria Pintor-Escobar
+  - Leighton Pritchard
+  - Samuel M. M. Prudence
+  - Alicia H. Russell
+  - Jana K. Schniete
+  - Ryan F. Seipke
+  - Nelly SélemMojica
+  - Agustina Undabarrena
+  - Kristiina Vind
+  - Gilles P. van Wezel
+  - Barrie Wilkinson
+  - Sarah F. Worsley
+  - Katherine R. Duncan
+  - Lorena T. Fernández-Martínez
+  - and Matthew I. Hutching
 doi: https://doi.org/10.1099/mgen.0.000824
-publication: Microbial Genomics
+publication: "Feeney, M. A., Newitt, J. T., Addington, E., Algora-Gallardo, L.,
+  Allan, C., Ballis, L., ... Parra, J., ... & Hutchings, M. I. (2022).
+  ActinoBase: tools and protocols for researchers working on Streptomyces and
+  other filamentous actinomycetes. Microbial Genomics."
+publication_short: In Microbial Genomics
 abstract: "Actinobacteria is an ancient phylum of Gram-positive bacteria with a
   characteristic high GC content to their DNA. The ActinoBase Wiki is focused on
   the filamentous actinobacteria, such as Streptomyces species, and the
