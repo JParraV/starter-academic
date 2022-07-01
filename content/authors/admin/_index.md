@@ -1,7 +1,7 @@
 ---
 title: Jonathan Parra
 role: "Assistant Professor "
-bio: Assintant Professor at University of Costa Rica
+bio: Assistant Professor at University of Costa Rica
 interests:
   - Natural Products
   - Chemical Ecology
