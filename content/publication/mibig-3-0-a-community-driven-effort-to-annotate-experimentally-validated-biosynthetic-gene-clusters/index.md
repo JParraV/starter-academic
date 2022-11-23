@@ -9,8 +9,11 @@ authors:
   - JC Navarro-Muñoz
   - et al.
 doi: https://doi.org/10.1093/nar/gkac1049
-publication: Nucleic Acids Research
-publication_short: ""
+publication: "Terlouw, B. R., Blin, K., Navarro-Muñoz, J. C., Avalon, N. E.,
+  Chevrette, M. G., Egbert, S., ... & Medema, M. H. (2022). MIBiG 3.0: a
+  community-driven effort to annotate experimentally validated biosynthetic gene
+  clusters. Nucleic Acids Research."
+publication_short: In Nucleic Acids Research
 abstract: "With an ever-increasing amount of (meta)genomic data being deposited
   in sequence databases, (meta)genome mining for natural product biosynthetic
   pathways occupies a critical role in the discovery of novel pharmaceutical
