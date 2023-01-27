@@ -1,6 +1,6 @@
 ---
 title: Integrated multi-omics insights into the specialised metabolism of
-  Pseudonocardia spp. isolated from the Southern Ocean
+  _Pseudonocardia_ spp. isolated from the Southern Ocean
 abstract: >-
   Multidrug-resistant pathogens have become a global threat. Therefore, there is
   an urgent need for finding new therapeutic alternatives. The class
