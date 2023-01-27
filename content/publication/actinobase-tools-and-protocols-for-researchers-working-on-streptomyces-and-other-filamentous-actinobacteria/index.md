@@ -6,6 +6,7 @@ publication_types:
 authors:
   - Morgan Anne Feeney
   - Jake Terry Newitt
+  - admin
   - et al.
 doi: https://doi.org/10.1099/mgen.0.000824
 publication: "Feeney, M. A., Newitt, J. T., Addington, E., Algora-Gallardo, L.,
