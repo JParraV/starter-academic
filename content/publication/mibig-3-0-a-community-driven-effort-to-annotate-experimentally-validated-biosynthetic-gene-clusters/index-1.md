@@ -4,12 +4,88 @@ title: "MIBiG 3.0: a community-driven effort to annotate experimentally
 publication_types:
   - "2"
 authors:
-  - BR Terlouw
-  - K Blin
-  - JC Navarro-Muñoz
-  - ...
+  - Barbara R. Terlouw
+  - Kai Blin
+  - Jorge C. Navarro-Munoz
+  - Nicole E. Avalon
+  - Marc G. Chevrette
+  - Susan Egbert
+  - Sanghoon Lee
+  - David Meijer
+  - Michael J.J. Recchia
+  - Zachary L. Reitz
+  - Jeffrey A. van Santen
+  - Nelly Selem-Mojica
+  - Thomas Tørring
+  - Liana Zaroubi
+  - Mohammad Alanjary
+  - Gajender Aleti
+  - Cesar Aguilar
+  - Suhad A.A. Al-Salihi
+  - Hannah E. Augustijn
+  - J. Abraham Avelar-Rivas
+  - Luis A. Avitia-Domínguez
+  - Francisco Barona-Gómez
+  - Jordan Bernaldo-Agüero
+  - Vincent A. Bielinski
+  - Friederike Biermann
+  - Thomas J. Booth
+  - Victor J. Carrion Bravo
+  - Raquel Castelo-Branco
+  - Fernanda O. Chagas
+  - Pablo Cruz-Morales
+  - Chao Du
+  - Katherine R. Duncan
+  - Athina Gavriilidou
+  - Damien Gayrard
+  - Karina Gutierrez-García
+  - Kristina Haslinger
+  - Eric J.N. Helfrich
+  - Justin J.J. van der Hooft
+  - Afif P. Jati
+  - Edward Kalkreuter
+  - Nikolaos Kalyvas
+  - Kyo Bin Kang
+  - Satria Kautsar
+  - Wonyong Kim
+  - Aditya M. Kunjapur
+  - Yong-Xin Li
+  - Geng-Min Lin
+  - Catarina Loureiro
+  - Joris J.R. Louwen
+  - Nico L.L. Louwen
+  - George Lund
   - admin
-  - et al.
+  - Benjamin Philmus
+  - Bita Pourmohsenin
+  - Lotte J.U. Pronk
+  - Adriana Rego
+  - Devasahayam Arokia Balaya Rex
+  - Serina Robinson
+  - L. Rodrigo Rosas-Becerra
+  - Eve T. Roxborough
+  - Michelle A. Schorn
+  - Darren J. Scobie
+  - Kumar Saurabh Singh
+  - Nika Sokolova
+  - Xiaoyu Tang
+  - Daniel Udwary
+  - Aruna Vigneshwari
+  - Kristiina Vind
+  - Sophie P.J.M. Vromans
+  - Valentin Waschulin
+  - Sam E. Williams
+  - Jaclyn M. Winter
+  - Thomas E. Witte
+  - Huali Xie
+  - Dong Yang
+  - Jingwei Yu
+  - Mitja Zdouc
+  - Zheng Zhong
+  - Jerome Collemare
+  - Roger G. Linington
+  - Tilmann Weber
+  - Marnix H. Medema
 doi: https://doi.org/10.1093/nar/gkac1049
 publication: "Terlouw, B. R., Blin, K., Navarro-Muñoz, J. C., Avalon, N. E.,
   Chevrette, M. G., Egbert, S., ... & Medema, M. H. (2022). MIBiG 3.0: a
