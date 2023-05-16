@@ -112,7 +112,7 @@ abstract: "With an ever-increasing amount of (meta)genomic data being deposited
   sequence-structure-function relationships for diverse natural products. MIBiG
   3.0 is accessible online at https://mibig.secondarymetabolites.org/."
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
